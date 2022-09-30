@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("测试git");
         System.out.println("fot-fix分支");
         System.out.println("分支冲突——master");
+        System.out.println("fot-fix");
     }
 }
