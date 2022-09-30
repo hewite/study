@@ -5,5 +5,11 @@ public class GitTest {
         System.out.println("分支冲突——master");
         System.out.println("fot-fix");
         System.out.println("测试推送");
+        System.out.println("测试推送");
+        System.out.println("测试推送");
+        System.out.println("测试推送");
+        System.out.println("测试推送");
+        System.out.println("测试推送");
+
     }
 }
