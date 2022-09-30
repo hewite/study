@@ -9,7 +9,10 @@ public class GitTest {
         System.out.println("测试推送");
         System.out.println("测试推送");
         System.out.println("测试推送");
-        System.out.println("测试推送");
+        System.out.println("测试拉取");
+        System.out.println("测试拉取");
+        System.out.println("测试拉取");
+        System.out.println("测试拉取");
 
     }
 }
